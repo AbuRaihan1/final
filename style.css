@@ -29,7 +29,7 @@
 .bottom_left {
   height: 60px;
   width: 60px;
-  transform: skew(-30deg);
+  transform: skew(-40deg);
   background-color: #e28f65;
   position: absolute;
   left: 80px;
@@ -40,7 +40,7 @@
 .bottom_right {
   height: 60px;
   width: 60px;
-  transform: skew(30deg);
+  transform: skew(40deg);
   background-color: #a94460;
   position: absolute;
   left: 150px;
