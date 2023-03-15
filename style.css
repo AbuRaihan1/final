@@ -8,7 +8,7 @@
 .white {
   height: 170px;
   width: 50px;
-  transform: skew(-20deg);
+  transform: skew(-22deg);
   background-color: #fcf9ce;
   position: absolute;
   left: 80px;
@@ -19,7 +19,7 @@
 .yellow {
   height: 170px;
   width: 50px;
-  transform: skew(20deg);
+  transform: skew(22deg);
   background-color: #c2b844;
   position: absolute;
   left: 160px;
