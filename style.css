@@ -1,0 +1,48 @@
+.container {
+  width: 350px;
+  height: 350px;
+  background: #62306d;
+  margin: auto;
+  position: relative;
+}
+.white {
+  height: 170px;
+  width: 50px;
+  transform: skew(-20deg);
+  background-color: #fcf9ce;
+  position: absolute;
+  left: 80px;
+  top: 80px;
+  z-index: 1;
+}
+
+.yellow {
+  height: 170px;
+  width: 50px;
+  transform: skew(20deg);
+  background-color: #c2b844;
+  position: absolute;
+  left: 160px;
+  top: 80px;
+}
+
+.bottom_left {
+  height: 60px;
+  width: 60px;
+  transform: skew(-30deg);
+  background-color: #e28f65;
+  position: absolute;
+  left: 80px;
+  top: 190px;
+  z-index: 2;
+}
+
+.bottom_right {
+  height: 60px;
+  width: 60px;
+  transform: skew(30deg);
+  background-color: #a94460;
+  position: absolute;
+  left: 150px;
+  top: 190px;
+}
